@@ -1,4 +1,4 @@
-# ripo_for_ISL
+# ISL_model
 Indian sing lnguase clascification
 # Indian Sign Language Recognition System
 
